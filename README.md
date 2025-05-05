@@ -43,3 +43,12 @@ Here, the well-known **T. Davidson hate speech dataset** is used and three progr
 
 ---
 
+
+## 💡 Key Learnings:
+- Semantic embeddings vastly improve classification compared to bag-of-words models.
+
+- Class imbalance significantly affects hate speech detection and must be addressed.
+
+- Logistic Regression, when paired with strong features and weights, is both interpretable and high-performing.
+
+---
