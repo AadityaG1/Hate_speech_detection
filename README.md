@@ -29,8 +29,7 @@ Here, the well-known **T. Davidson hate speech dataset** is used and three progr
 ### 3️⃣ Final: Balanced Sentence Embeddings with Class Weights
 - Applied class weighting in Logistic Regression to address class imbalance
 - Boosted recall for underrepresented "hate" class
-- Optional: SMOTE for oversampling (commented in code for optional usage)
-- Achieved significant performance improvement on "hate" recall and macro F1
+- Achieved significant performance improvement on "hate" recall 
 
 ---
 
